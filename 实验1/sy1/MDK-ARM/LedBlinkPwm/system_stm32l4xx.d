@@ -1,0 +1,30 @@
+.\ledblinkpwm\system_stm32l4xx.o: ../Core/Src/system_stm32l4xx.c
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l431xx.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/CMSIS/Include/core_cm4.h
+.\ledblinkpwm\system_stm32l4xx.o: D:\danpianji（holy cloud）\ARM\ARMCC\Bin\..\include\stdint.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/CMSIS/Include/cmsis_version.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/system_stm32l4xx.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Core/Inc/stm32l4xx_hal_conf.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_def.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+.\ledblinkpwm\system_stm32l4xx.o: D:\danpianji（holy cloud）\ARM\ARMCC\Bin\..\include\stddef.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rcc_ex.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_gpio.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_gpio_ex.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_dma.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_cortex.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_exti.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_flash.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_flash_ex.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_flash_ramfunc.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_i2c.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_i2c_ex.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pwr.h
+.\ledblinkpwm\system_stm32l4xx.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pwr_ex.h

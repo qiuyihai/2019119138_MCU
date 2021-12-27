@@ -1,0 +1,28 @@
+--cpu=Cortex-M4.fp.sp --branchpatch=sdcomp-29491-629360
+".\ledblinkpwm\main.o"
+".\ledblinkpwm\gpio.o"
+".\ledblinkpwm\stm32l4xx_it.o"
+".\ledblinkpwm\stm32l4xx_hal_msp.o"
+".\ledblinkpwm\stm32l4xx_hal_tim.o"
+".\ledblinkpwm\stm32l4xx_hal_tim_ex.o"
+".\ledblinkpwm\stm32l4xx_hal.o"
+".\ledblinkpwm\stm32l4xx_hal_i2c.o"
+".\ledblinkpwm\stm32l4xx_hal_i2c_ex.o"
+".\ledblinkpwm\stm32l4xx_hal_rcc.o"
+".\ledblinkpwm\stm32l4xx_hal_rcc_ex.o"
+".\ledblinkpwm\stm32l4xx_hal_flash.o"
+".\ledblinkpwm\stm32l4xx_hal_flash_ex.o"
+".\ledblinkpwm\stm32l4xx_hal_flash_ramfunc.o"
+".\ledblinkpwm\stm32l4xx_hal_gpio.o"
+".\ledblinkpwm\stm32l4xx_hal_dma.o"
+".\ledblinkpwm\stm32l4xx_hal_dma_ex.o"
+".\ledblinkpwm\stm32l4xx_hal_pwr.o"
+".\ledblinkpwm\stm32l4xx_hal_pwr_ex.o"
+".\ledblinkpwm\stm32l4xx_hal_cortex.o"
+".\ledblinkpwm\stm32l4xx_hal_exti.o"
+".\ledblinkpwm\system_stm32l4xx.o"
+".\ledblinkpwm\startup_stm32l431xx.o"
+--library_type=microlib --nodebug --strict --scatter ".\LedBlinkPwm\LedBlinkPwm.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "LedBlinkPwm.map" -o .\LedBlinkPwm\LedBlinkPwm.axf
